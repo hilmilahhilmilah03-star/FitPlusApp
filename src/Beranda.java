@@ -107,6 +107,10 @@ public class Beranda extends javax.swing.JFrame {
         getContentPane().add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 474, -1, 30));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/gambar/gambar2.png"))); // NOI18N
+<<<<<<< HEAD
+=======
+        jLabel1.setPreferredSize(new java.awt.Dimension(360, 640));
+>>>>>>> 98b1ff11d96e1bc4a90beb994261b8309f35ab3a
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 360, 620));
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
